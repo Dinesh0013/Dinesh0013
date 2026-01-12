@@ -1,13 +1,12 @@
   # Hi!! I am Dinesh
 
-🎓 Student at Queen’s University Belfast — MSc Applied Cyber Security
+🎓 MSc Applied Cyber Security | Queen’s University Belfast, United Kingdoms <br>
+💡 B.E. in Electronics and Communication Engineering | Netaji Subhas University of Technology, India
 
-⌨️ Currently working on building secure data systems using Go (Golang) and cryptography. My work focuses on designing systems that are reliable, scalable, and security-first.
+⌨️ Building secure, high-performance systems with Go (Golang) and cryptography, focusing on reliability, scalability, and security-first design.
 
-🔭 I'm mostly focused on Golang, Linux, distributed systems, and applied cryptography. I work on backend infrastructure where correctness, performance, and security really matter.
+🌱 Continuously expanding expertise in cryptographic protocols, system security, distributed architectures, and cloud-native design, while refining low-level systems knowledge for efficient and safe software.
 
-🌱 I'm continuously deepening my understanding of cryptographic protocols, system security, distributed architectures, and cloud-native design. I also actively improve my low-level systems knowledge to write more efficient and safer software.
-
-🧑‍🤝‍🧑 I’d love to collaborate on security tooling, cryptography-related libraries, and high-performance backend systems — especially projects focused on creating faster and more secure systems. If you’re working in this space, I’d be happy to connect.
+🧑‍🤝‍🧑 Open to collaboration on security tooling, cryptography libraries, and high-performance backend systems — especially projects creating faster, safer, and more secure systems.
 
 📫 How to reach me: dsangwan01@qub.ac.uk 
