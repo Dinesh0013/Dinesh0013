@@ -7,6 +7,6 @@
 
 🌱 Continuously expanding expertise in cryptographic protocols, system security, distributed architectures, and cloud-native design, while refining low-level systems knowledge for efficient and safe software.
 
-🧑‍🤝‍🧑 Open to collaboration on security tooling, cryptography libraries, and high-performance backend systems — especially projects creating faster, safer, and more secure systems.
+🧑‍🤝‍🧑 Open to collaboration on security tooling, cryptography libraries, and high-performance backend systems especially projects creating faster, safer, and more secure systems.
 
 📫 How to reach me: dsangwan01@qub.ac.uk 
